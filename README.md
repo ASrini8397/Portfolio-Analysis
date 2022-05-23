@@ -1,4 +1,4 @@
-# Portfolio-Analysis
+# Portfolio and Equity Analysis
 Using Python to find Optimal Portfolios along an efficient frontier, generated through a Monte Carlo Simulation
 
 The dotted line marks the Efficient Frontier and the portfolios that are represented by each bullet (Markowitz Bullets) were generated using a
